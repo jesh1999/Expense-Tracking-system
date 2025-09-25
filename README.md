@@ -1,33 +1,103 @@
-# Expense Management System
+Here’s a polished and attractive version of your **README.md** with formatting, icons, badges, and placeholders for images. I’ve also included sections like **Features**, **Tech Stack**, and **Preview** to make it look professional.
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+---
 
+# 💰 Expense Management System
 
-## Project Structure
+A modern **Expense Management System** with a **Streamlit frontend** and **FastAPI backend** to help track and manage expenses efficiently.
 
-- **frontend/**: Contains the Streamlit application code.
-- **backend/**: Contains the FastAPI backend server code.
-- **tests/**: Contains the test cases for both frontend and backend.
-- **requirements.txt**: Lists the required Python packages.
-- **README.md**: Provides an overview and instructions for the project.
+<p align="center">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-expense-finance-flat-flat-juicy-fish.png" width="120"/>
+</p>  
 
+---
 
-## Setup Instructions
+## 🚀 Features
 
-1. **Clone the repository**:
+* 📊 **Track Expenses** – Add, edit, and view expense records
+* 💻 **FastAPI Backend** – Scalable and lightweight backend
+* 🎨 **Streamlit Frontend** – Simple, interactive, and user-friendly
+* ✅ **Test Coverage** – Unit tests for backend & frontend
+* 📂 **Modular Project Structure**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend**: [Streamlit](https://streamlit.io/)
+* **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
+* **Database**: SQLite / PostgreSQL (extendable)
+* **Testing**: Pytest
+
+<p align="center">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="60" />
+</p>  
+
+---
+
+## 📂 Project Structure
+
+```
+expense-management-system/
+│── frontend/        # Streamlit frontend application
+│── backend/         # FastAPI backend server
+│── tests/           # Test cases for frontend & backend
+│── requirements.txt # Project dependencies
+│── README.md        # Project overview & setup
+```
+
+---
+
+## ⚡ Setup Instructions
+
+1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/yourusername/expense-management-system.git
    cd expense-management-system
    ```
-1. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt
+
+2. **Install Dependencies**
+
+   ```bash
+   pip install -r requirements.txt
    ```
-1. **Run the FastAPI server:**:   
-   ```commandline
-    uvicorn server.server:app --reload
+
+3. **Run the FastAPI Server**
+
+   ```bash
+   uvicorn server.server:app --reload
    ```
-1. **Run the Streamlit app:**:   
-   ```commandline
-    streamlit run frontend/app.py
+
+4. **Run the Streamlit App**
+
+   ```bash
+   streamlit run frontend/app.py
    ```
+
+---
+
+## 🎥 Preview
+
+<p align="center">
+  <img src="https://streamlit.io/images/brand/hero.png" alt="Streamlit App Preview" width="600"/>
+</p>  
+
+<p align="center">
+  <img src="https://fastapi.tiangolo.com/img/index/index-hero.svg" alt="FastAPI Preview" width="600"/>
+</p>  
+
+---
+
+## ✅ Future Improvements
+
+* Add authentication (JWT)
+* Expense categorization & visualization
+* Export reports (CSV/Excel)
+* Multi-user support
+
+---
+
+
