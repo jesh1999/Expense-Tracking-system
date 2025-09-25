@@ -80,15 +80,18 @@ expense-management-system/
 ---
 
 ## 🎥 Preview
+ 
 
 <p align="center">
-  <img src="https://streamlit.io/images/brand/hero.png" alt="Streamlit App Preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/img/logo-light.png" 
+       alt="Streamlit App Preview" width="500"/>
 </p>  
 
 <p align="center">
-  <img src="https://fastapi.tiangolo.com/img/index/index-hero.svg" alt="FastAPI Preview" width="600"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" 
+       alt="FastAPI Preview" width="500"/>
 </p>  
-
+ 
 ---
 
 ## ✅ Future Improvements
@@ -99,5 +102,6 @@ expense-management-system/
 * Multi-user support
 
 ---
+
 
 
