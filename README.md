@@ -6,9 +6,7 @@ Here’s a polished and attractive version of your **README.md** with formatting
 
 A modern **Expense Management System** with a **Streamlit frontend** and **FastAPI backend** to help track and manage expenses efficiently.
 
-<p align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-expense-finance-flat-flat-juicy-fish.png" width="120"/>
-</p>  
+<p align="center"> <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-expense-finance-flat-flat-juicy-fish.png" width="120"/> </p> 
 
 ---
 
@@ -120,6 +118,7 @@ This project is a great foundation to:
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)  
+
 
 
 
