@@ -1,4 +1,4 @@
-Here’s a polished and attractive version of your **README.md** with formatting, icons, badges, and placeholders for images. I’ve also included sections like **Features**, **Tech Stack**, and **Preview** to make it look professional.
+
 
 ---
 
@@ -118,6 +118,7 @@ This project is a great foundation to:
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)  
+
 
 
 
